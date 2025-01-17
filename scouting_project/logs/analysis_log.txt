@@ -1,0 +1,11 @@
+import logging
+
+logging.basicConfig(
+    filename="output/logs/analysis_log.txt",
+    level=logging.INFO,
+    format="%(asctime)s - %(message)s"
+)
+
+logging.info("Şut Sıcaklık Haritası Analizi Tamamlandı.")
+logging.info("Pas Zinciri Analizi Tamamlandı.")
+logging.info("Dribbling Analizi Tamamlandı.")

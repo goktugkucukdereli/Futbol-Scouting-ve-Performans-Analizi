@@ -1,0 +1,25 @@
+{
+    "dataset_name": "StatsBomb Open Data",
+    "description": "StatsBomb tarafından sağlanan açık futbol verileri. Bu veri seti, maç olaylarını (şutlar, paslar, dribbling, vb.) JSON formatında içerir.",
+    "source": "https://github.com/statsbomb/open-data",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "events_format": {
+        "match_id": "Her bir maç için benzersiz bir kimlik",
+        "team": {
+            "id": "Takım kimliği",
+            "name": "Takım adı"
+        },
+        "player": {
+            "id": "Oyuncu kimliği",
+            "name": "Oyuncu adı"
+        },
+        "type": {
+            "id": "Olay türü kimliği",
+            "name": "Olay türü adı (ör. Şut, Pas)"
+        },
+        "location": "Olayın saha üzerindeki X ve Y koordinatları",
+        "minute": "Olayın gerçekleştiği dakika",
+        "second": "Olayın gerçekleştiği saniye"
+    },
+    "notes": "Veri setinde yalnızca 2018'den sonraki maçlar yer almaktadır. Bazı maçlarda eksik veya bozuk veri bulunabilir."
+}

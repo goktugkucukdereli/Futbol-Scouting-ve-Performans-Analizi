@@ -1,0 +1,1001 @@
+match_id,passer,receiver,team_name,start_x,start_y,end_x,end_y
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,61.0,40.0,63.0,37.0
+,Ramona Bachmann,Crystal Alyssia Dunn Soubrier,Chelsea FCW,69.0,33.0,84.0,5.0
+,Ellie Roebuck,Nikita Parris,Manchester City WFC,6.0,43.0,59.0,69.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,62.0,12.0,80.0,10.0
+,Esme Beth Morgan,,Manchester City WFC,41.0,71.0,43.0,73.0
+,Jill Scott,Nikita Parris,Manchester City WFC,43.0,66.0,58.0,76.0
+,Nikita Parris,Nadia Nadim,Manchester City WFC,58.0,76.0,75.0,71.0
+,Anita Amma Ankyewah Asante,Francesca Kirby,Chelsea FCW,44.0,17.0,95.0,23.0
+,Ramona Bachmann,Anita Amma Ankyewah Asante,Chelsea FCW,119.0,2.0,116.0,33.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,54.0,24.0,53.0,26.0
+,Julia Spetsmark,Demi Stokes,Manchester City WFC,92.0,26.0,96.0,5.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,95.0,5.0,87.0,16.0
+,Isobel Mary Christiansen,Nadia Nadim,Manchester City WFC,87.0,17.0,105.0,40.0
+,Nadia Nadim,Jill Scott,Manchester City WFC,100.0,40.0,90.0,54.0
+,Jill Scott,Nikita Parris,Manchester City WFC,90.0,54.0,101.0,59.0
+,Isobel Mary Christiansen,Nikita Parris,Manchester City WFC,120.0,80.0,119.0,42.0
+,Drew Spence,Francesca Kirby,Chelsea FCW,9.0,41.0,38.0,47.0
+,Francesca Kirby,Millie Bright,Chelsea FCW,31.0,40.0,29.0,55.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,27.0,58.0,86.0,66.0
+,Jennifer Patricia Beattie,Julia Spetsmark,Manchester City WFC,35.0,15.0,45.0,10.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,78.0,76.0,84.0,77.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,84.0,77.0,81.0,69.0
+,So-Yun Ji,Francesca Kirby,Chelsea FCW,83.0,69.0,93.0,68.0
+,Francesca Kirby,Drew Spence,Chelsea FCW,90.0,68.0,90.0,53.0
+,Jill Scott,Isobel Mary Christiansen,Manchester City WFC,31.0,28.0,30.0,24.0
+,Isobel Mary Christiansen,Jennifer Patricia Beattie,Manchester City WFC,29.0,24.0,25.0,28.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,25.0,27.0,26.0,14.0
+,Demi Stokes,Nadia Nadim,Manchester City WFC,32.0,15.0,97.0,23.0
+,Rut Hedvig Lindahl,Anita Amma Ankyewah Asante,Chelsea FCW,24.0,53.0,34.0,27.0
+,Anita Amma Ankyewah Asante,Ramona Bachmann,Chelsea FCW,43.0,27.0,69.0,21.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,65.0,74.0,43.0,76.0
+,Esme Beth Morgan,Abbie McManus,Manchester City WFC,37.0,76.0,36.0,64.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,37.0,53.0,32.0,27.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,31.0,26.0,37.0,8.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,38.0,7.0,61.0,14.0
+,Hannah Jayne Blundell,Francesca Kirby,Chelsea FCW,73.0,70.0,88.0,64.0
+,Isobel Mary Christiansen,Nadia Nadim,Manchester City WFC,40.0,33.0,57.0,29.0
+,Nadia Nadim,Julia Spetsmark,Manchester City WFC,53.0,21.0,45.0,3.0
+,Julia Spetsmark,Demi Stokes,Manchester City WFC,45.0,3.0,38.0,9.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,33.0,13.0,25.0,25.0
+,Jennifer Patricia Beattie,Jill Scott,Manchester City WFC,21.0,27.0,45.0,77.0
+,Nikita Parris,Esme Beth Morgan,Manchester City WFC,51.0,80.0,42.0,74.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,47.0,73.0,63.0,70.0
+,Jill Scott,Nikita Parris,Manchester City WFC,63.0,70.0,67.0,78.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,66.0,1.0,91.0,5.0
+,Ramona Bachmann,Crystal Alyssia Dunn Soubrier,Chelsea FCW,87.0,3.0,82.0,4.0
+,Crystal Alyssia Dunn Soubrier,Hannah Jayne Blundell,Chelsea FCW,81.0,2.0,88.0,65.0
+,Hannah Jayne Blundell,,Chelsea FCW,116.0,57.0,116.0,54.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,110.0,68.0,90.0,67.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,92.0,67.0,104.0,48.0
+,Maren Nævdal Mjelde,Francesca Kirby,Chelsea FCW,102.0,45.0,113.0,55.0
+,Ramona Bachmann,,Chelsea FCW,120.0,80.0,108.0,49.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,104.0,36.0,109.0,29.0
+,Esme Beth Morgan,Nadia Nadim,Manchester City WFC,44.0,77.0,120.0,68.0
+,Rut Hedvig Lindahl,Millie Bright,Chelsea FCW,6.0,36.0,11.0,69.0
+,Millie Bright,Ramona Bachmann,Chelsea FCW,37.0,67.0,110.0,48.0
+,Ellie Roebuck,Esme Beth Morgan,Manchester City WFC,10.0,36.0,27.0,59.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,27.0,59.0,39.0,52.0
+,Jill Scott,Nikita Parris,Manchester City WFC,39.0,52.0,43.0,78.0
+,Nikita Parris,Esme Beth Morgan,Manchester City WFC,48.0,78.0,35.0,74.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,43.0,74.0,72.0,73.0
+,Maren Nævdal Mjelde,Magdalena Lilly Eriksson,Chelsea FCW,49.0,3.0,42.0,3.0
+,Magdalena Lilly Eriksson,So-Yun Ji,Chelsea FCW,40.0,3.0,60.0,21.0
+,Keira Walsh,Nadia Nadim,Manchester City WFC,61.0,60.0,77.0,59.0
+,Nadia Nadim,Isobel Mary Christiansen,Manchester City WFC,77.0,59.0,71.0,47.0
+,Isobel Mary Christiansen,Demi Stokes,Manchester City WFC,75.0,41.0,81.0,7.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,91.0,13.0,97.0,6.0
+,Julia Spetsmark,Isobel Mary Christiansen,Manchester City WFC,95.0,15.0,86.0,14.0
+,Isobel Mary Christiansen,Nadia Nadim,Manchester City WFC,85.0,15.0,99.0,41.0
+,Nadia Nadim,Jill Scott,Manchester City WFC,99.0,41.0,90.0,53.0
+,Jill Scott,Nikita Parris,Manchester City WFC,90.0,53.0,99.0,63.0
+,Nikita Parris,Jill Scott,Manchester City WFC,92.0,64.0,87.0,61.0
+,Jill Scott,Nikita Parris,Manchester City WFC,89.0,65.0,116.0,55.0
+,Rut Hedvig Lindahl,Millie Bright,Chelsea FCW,16.0,39.0,23.0,58.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,36.0,56.0,38.0,78.0
+,Hannah Jayne Blundell,Millie Bright,Chelsea FCW,36.0,75.0,31.0,70.0
+,Millie Bright,Rut Hedvig Lindahl,Chelsea FCW,26.0,69.0,11.0,53.0
+,Rut Hedvig Lindahl,Anita Amma Ankyewah Asante,Chelsea FCW,13.0,54.0,29.0,21.0
+,Anita Amma Ankyewah Asante,Crystal Alyssia Dunn Soubrier,Chelsea FCW,45.0,21.0,86.0,14.0
+,Esme Beth Morgan,Keira Walsh,Manchester City WFC,35.0,67.0,41.0,65.0
+,Drew Spence,Crystal Alyssia Dunn Soubrier,Chelsea FCW,80.0,16.0,93.0,4.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,102.0,9.0,114.0,17.0
+,Ramona Bachmann,,Chelsea FCW,117.0,24.0,116.0,36.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,104.0,51.0,95.0,48.0
+,So-Yun Ji,Magdalena Lilly Eriksson,Chelsea FCW,86.0,47.0,87.0,25.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,92.0,25.0,99.0,9.0
+,Crystal Alyssia Dunn Soubrier,,Chelsea FCW,114.0,19.0,114.0,74.0
+,Julia Spetsmark,Nadia Nadim,Manchester City WFC,7.0,7.0,31.0,7.0
+,Millie Bright,Drew Spence,Chelsea FCW,96.0,68.0,97.0,53.0
+,Drew Spence,So-Yun Ji,Chelsea FCW,95.0,53.0,89.0,55.0
+,So-Yun Ji,Magdalena Lilly Eriksson,Chelsea FCW,88.0,55.0,83.0,30.0
+,Magdalena Lilly Eriksson,Drew Spence,Chelsea FCW,85.0,28.0,107.0,47.0
+,Drew Spence,Ramona Bachmann,Chelsea FCW,108.0,49.0,109.0,40.0
+,Julia Spetsmark,Nadia Nadim,Manchester City WFC,29.0,31.0,37.0,41.0
+,Keira Walsh,Nikita Parris,Manchester City WFC,35.0,41.0,51.0,63.0
+,Crystal Alyssia Dunn Soubrier,Maren Nævdal Mjelde,Chelsea FCW,76.0,19.0,69.0,24.0
+,Maren Nævdal Mjelde,Millie Bright,Chelsea FCW,67.0,33.0,58.0,46.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,57.0,47.0,73.0,55.0
+,So-Yun Ji,Millie Bright,Chelsea FCW,72.0,56.0,54.0,56.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,56.0,56.0,78.0,74.0
+,Hannah Jayne Blundell,Anita Amma Ankyewah Asante,Chelsea FCW,70.0,69.0,45.0,39.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,51.0,38.0,54.0,11.0
+,Magdalena Lilly Eriksson,Drew Spence,Chelsea FCW,55.0,15.0,79.0,18.0
+,Drew Spence,Magdalena Lilly Eriksson,Chelsea FCW,77.0,19.0,59.0,18.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,58.0,19.0,69.0,24.0
+,Maren Nævdal Mjelde,Millie Bright,Chelsea FCW,62.0,23.0,45.0,67.0
+,Millie Bright,Rut Hedvig Lindahl,Chelsea FCW,56.0,68.0,29.0,46.0
+,Rut Hedvig Lindahl,Hannah Jayne Blundell,Chelsea FCW,31.0,48.0,66.0,80.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,65.0,1.0,64.0,14.0
+,Isobel Mary Christiansen,Demi Stokes,Manchester City WFC,64.0,14.0,66.0,3.0
+,Demi Stokes,Nadia Nadim,Manchester City WFC,67.0,3.0,83.0,17.0
+,Nadia Nadim,Isobel Mary Christiansen,Manchester City WFC,83.0,17.0,75.0,19.0
+,Isobel Mary Christiansen,Julia Spetsmark,Manchester City WFC,75.0,19.0,93.0,1.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,30.0,80.0,30.0,68.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,30.0,68.0,26.0,79.0
+,Hannah Jayne Blundell,Drew Spence,Chelsea FCW,27.0,77.0,39.0,71.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,82.0,10.0,87.0,6.0
+,Julia Spetsmark,Demi Stokes,Manchester City WFC,86.0,5.0,79.0,4.0
+,Demi Stokes,Keira Walsh,Manchester City WFC,79.0,4.0,81.0,15.0
+,Drew Spence,Francesca Kirby,Chelsea FCW,43.0,68.0,56.0,71.0
+,Francesca Kirby,Ramona Bachmann,Chelsea FCW,72.0,69.0,93.0,70.0
+,Rut Hedvig Lindahl,Magdalena Lilly Eriksson,Chelsea FCW,22.0,24.0,28.0,5.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,45.0,10.0,71.0,2.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,82.0,3.0,106.0,6.0
+,Ramona Bachmann,,Chelsea FCW,116.0,19.0,116.0,28.0
+,Crystal Alyssia Dunn Soubrier,,Chelsea FCW,117.0,23.0,116.0,24.0
+,Abbie McManus,Jill Scott,Manchester City WFC,10.0,55.0,21.0,58.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,20.0,59.0,14.0,64.0
+,Esme Beth Morgan,Nadia Nadim,Manchester City WFC,14.0,64.0,83.0,72.0
+,Drew Spence,Millie Bright,Chelsea FCW,38.0,9.0,37.0,34.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,39.0,47.0,53.0,46.0
+,So-Yun Ji,Crystal Alyssia Dunn Soubrier,Chelsea FCW,55.0,45.0,83.0,8.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,91.0,11.0,105.0,33.0
+,Abbie McManus,Nadia Nadim,Manchester City WFC,15.0,65.0,58.0,65.0
+,Magdalena Lilly Eriksson,So-Yun Ji,Chelsea FCW,64.0,15.0,70.0,25.0
+,So-Yun Ji,Francesca Kirby,Chelsea FCW,72.0,29.0,113.0,4.0
+,Francesca Kirby,Crystal Alyssia Dunn Soubrier,Chelsea FCW,111.0,10.0,115.0,12.0
+,Crystal Alyssia Dunn Soubrier,Hannah Jayne Blundell,Chelsea FCW,116.0,12.0,112.0,41.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,27.0,1.0,37.0,4.0
+,Millie Bright,Anita Amma Ankyewah Asante,Chelsea FCW,84.0,77.0,72.0,70.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,71.0,72.0,64.0,70.0
+,Millie Bright,Magdalena Lilly Eriksson,Chelsea FCW,63.0,67.0,47.0,47.0
+,Magdalena Lilly Eriksson,Rut Hedvig Lindahl,Chelsea FCW,54.0,26.0,27.0,35.0
+,Rut Hedvig Lindahl,Millie Bright,Chelsea FCW,26.0,36.0,37.0,65.0
+,Millie Bright,Crystal Alyssia Dunn Soubrier,Chelsea FCW,41.0,61.0,78.0,25.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,43.0,56.0,65.0,56.0
+,Crystal Alyssia Dunn Soubrier,Drew Spence,Chelsea FCW,34.0,1.0,48.0,2.0
+,Nikita Parris,Jill Scott,Manchester City WFC,73.0,79.0,75.0,70.0
+,Jill Scott,Keira Walsh,Manchester City WFC,75.0,70.0,71.0,68.0
+,Keira Walsh,Nadia Nadim,Manchester City WFC,71.0,68.0,89.0,70.0
+,Magdalena Lilly Eriksson,So-Yun Ji,Chelsea FCW,32.0,11.0,44.0,23.0
+,Jill Scott,Demi Stokes,Manchester City WFC,74.0,59.0,63.0,34.0
+,Demi Stokes,Nikita Parris,Manchester City WFC,72.0,33.0,95.0,57.0
+,Magdalena Lilly Eriksson,Drew Spence,Chelsea FCW,26.0,24.0,44.0,38.0
+,Drew Spence,Francesca Kirby,Chelsea FCW,44.0,36.0,63.0,57.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,58.0,24.0,47.0,34.0
+,Jennifer Patricia Beattie,Abbie McManus,Manchester City WFC,44.0,36.0,37.0,41.0
+,Abbie McManus,Demi Stokes,Manchester City WFC,45.0,45.0,56.0,8.0
+,Demi Stokes,Nadia Nadim,Manchester City WFC,85.0,15.0,95.0,31.0
+,Nadia Nadim,Julia Spetsmark,Manchester City WFC,95.0,31.0,109.0,14.0
+,Rut Hedvig Lindahl,Millie Bright,Chelsea FCW,2.0,54.0,20.0,67.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,20.0,67.0,36.0,56.0
+,So-Yun Ji,Millie Bright,Chelsea FCW,35.0,57.0,34.0,74.0
+,Millie Bright,,Chelsea FCW,32.0,77.0,38.0,71.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,70.0,12.0,76.0,21.0
+,Isobel Mary Christiansen,Julia Spetsmark,Manchester City WFC,76.0,21.0,79.0,16.0
+,Julia Spetsmark,Nadia Nadim,Manchester City WFC,81.0,18.0,86.0,27.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,29.0,59.0,28.0,53.0
+,So-Yun Ji,Magdalena Lilly Eriksson,Chelsea FCW,26.0,50.0,15.0,33.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,33.0,12.0,45.0,2.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,84.0,80.0,88.0,70.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,88.0,70.0,80.0,79.0
+,Esme Beth Morgan,,Manchester City WFC,80.0,79.0,96.0,80.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,10.0,4.0,23.0,4.0
+,Crystal Alyssia Dunn Soubrier,Anita Amma Ankyewah Asante,Chelsea FCW,21.0,3.0,19.0,23.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,22.0,28.0,29.0,56.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,38.0,56.0,80.0,66.0
+,Hannah Jayne Blundell,Millie Bright,Chelsea FCW,67.0,80.0,46.0,74.0
+,Millie Bright,,Chelsea FCW,47.0,75.0,98.0,60.0
+,Jennifer Patricia Beattie,Ellie Roebuck,Manchester City WFC,23.0,21.0,2.0,30.0
+,Ellie Roebuck,Abbie McManus,Manchester City WFC,2.0,34.0,11.0,45.0
+,Abbie McManus,Julia Spetsmark,Manchester City WFC,46.0,56.0,105.0,28.0
+,Rut Hedvig Lindahl,Anita Amma Ankyewah Asante,Chelsea FCW,16.0,55.0,30.0,36.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,35.0,34.0,35.0,14.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,36.0,16.0,45.0,25.0
+,Maren Nævdal Mjelde,Magdalena Lilly Eriksson,Chelsea FCW,48.0,23.0,41.0,14.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,46.0,11.0,45.0,21.0
+,Maren Nævdal Mjelde,Millie Bright,Chelsea FCW,46.0,33.0,37.0,66.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,37.0,67.0,59.0,73.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,62.0,8.0,84.0,25.0
+,Millie Bright,Crystal Alyssia Dunn Soubrier,Chelsea FCW,41.0,42.0,82.0,16.0
+,Esme Beth Morgan,Keira Walsh,Manchester City WFC,39.0,65.0,51.0,63.0
+,Drew Spence,Francesca Kirby,Chelsea FCW,69.0,23.0,94.0,24.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,107.0,74.0,93.0,67.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,90.0,68.0,89.0,54.0
+,Maren Nævdal Mjelde,Francesca Kirby,Chelsea FCW,92.0,54.0,119.0,53.0
+,Crystal Alyssia Dunn Soubrier,So-Yun Ji,Chelsea FCW,52.0,21.0,62.0,36.0
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,64.0,43.0,89.0,69.0
+,Ellie Roebuck,Nadia Nadim,Manchester City WFC,11.0,25.0,96.0,26.0
+,Rut Hedvig Lindahl,Millie Bright,Chelsea FCW,25.0,55.0,36.0,60.0
+,Millie Bright,Rut Hedvig Lindahl,Chelsea FCW,33.0,60.0,14.0,42.0
+,Rut Hedvig Lindahl,,Chelsea FCW,14.0,34.0,40.0,12.0
+,Nikita Parris,Jill Scott,Manchester City WFC,91.0,65.0,84.0,51.0
+,Drew Spence,Ramona Bachmann,Chelsea FCW,39.0,38.0,96.0,42.0
+,Ellie Roebuck,Abbie McManus,Manchester City WFC,26.0,40.0,29.0,57.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,28.0,58.0,38.0,76.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,38.0,76.0,45.0,60.0
+,Jill Scott,Isobel Mary Christiansen,Manchester City WFC,55.0,47.0,59.0,32.0
+,Isobel Mary Christiansen,Demi Stokes,Manchester City WFC,69.0,29.0,90.0,7.0
+,Demi Stokes,,Manchester City WFC,108.0,14.0,113.0,29.0
+,Hannah Jayne Blundell,,Chelsea FCW,10.0,69.0,8.0,69.0
+,Hannah Jayne Blundell,Drew Spence,Chelsea FCW,22.0,80.0,35.0,75.0
+,Drew Spence,,Chelsea FCW,35.0,77.0,44.0,80.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,113.0,11.0,104.0,80.0
+,Crystal Alyssia Dunn Soubrier,Magdalena Lilly Eriksson,Chelsea FCW,19.0,1.0,6.0,13.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,8.0,9.0,12.0,1.0
+,Crystal Alyssia Dunn Soubrier,Maren Nævdal Mjelde,Chelsea FCW,21.0,1.0,24.0,10.0
+,Maren Nævdal Mjelde,Magdalena Lilly Eriksson,Chelsea FCW,22.0,11.0,10.0,11.0
+,Rut Hedvig Lindahl,Magdalena Lilly Eriksson,Chelsea FCW,22.0,13.0,25.0,11.0
+,Magdalena Lilly Eriksson,Rut Hedvig Lindahl,Chelsea FCW,27.0,11.0,16.0,20.0
+,Rut Hedvig Lindahl,Magdalena Lilly Eriksson,Chelsea FCW,16.0,20.0,29.0,9.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,39.0,15.0,45.0,21.0
+,Maren Nævdal Mjelde,Magdalena Lilly Eriksson,Chelsea FCW,46.0,21.0,42.0,16.0
+,Magdalena Lilly Eriksson,Drew Spence,Chelsea FCW,41.0,6.0,76.0,12.0
+,Drew Spence,Hannah Jayne Blundell,Chelsea FCW,89.0,38.0,95.0,68.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,99.0,57.0,84.0,51.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,86.0,49.0,80.0,38.0
+,Maren Nævdal Mjelde,Magdalena Lilly Eriksson,Chelsea FCW,83.0,36.0,78.0,22.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,81.0,23.0,83.0,38.0
+,Ellie Roebuck,Jill Scott,Manchester City WFC,7.0,45.0,49.0,63.0
+,Jill Scott,Nadia Nadim,Manchester City WFC,49.0,63.0,75.0,59.0
+,Magdalena Lilly Eriksson,Hannah Jayne Blundell,Chelsea FCW,46.0,22.0,52.0,48.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,35.0,80.0,37.0,69.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,37.0,68.0,34.0,75.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,34.0,75.0,35.0,63.0
+,Hannah Jayne Blundell,Ramona Bachmann,Chelsea FCW,55.0,80.0,80.0,78.0
+,Ramona Bachmann,So-Yun Ji,Chelsea FCW,67.0,72.0,56.0,68.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,55.0,69.0,57.0,76.0
+,Hannah Jayne Blundell,Millie Bright,Chelsea FCW,56.0,75.0,40.0,73.0
+,Millie Bright,Anita Amma Ankyewah Asante,Chelsea FCW,33.0,74.0,32.0,43.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,35.0,36.0,37.0,10.0
+,Magdalena Lilly Eriksson,,Chelsea FCW,52.0,9.0,54.0,8.0
+,Magdalena Lilly Eriksson,Drew Spence,Chelsea FCW,55.0,9.0,83.0,51.0
+,Drew Spence,So-Yun Ji,Chelsea FCW,100.0,56.0,95.0,44.0
+,So-Yun Ji,Crystal Alyssia Dunn Soubrier,Chelsea FCW,102.0,37.0,109.0,26.0
+,Crystal Alyssia Dunn Soubrier,So-Yun Ji,Chelsea FCW,111.0,24.0,111.0,35.0
+,Abbie McManus,Jill Scott,Manchester City WFC,20.0,55.0,40.0,59.0
+,Maren Nævdal Mjelde,Ramona Bachmann,Chelsea FCW,81.0,22.0,92.0,23.0
+,Ramona Bachmann,Maren Nævdal Mjelde,Chelsea FCW,92.0,24.0,97.0,21.0
+,Maren Nævdal Mjelde,Ramona Bachmann,Chelsea FCW,101.0,21.0,102.0,34.0
+,Ramona Bachmann,Francesca Kirby,Chelsea FCW,102.0,34.0,104.0,44.0
+,Ellie Roebuck,Esme Beth Morgan,Manchester City WFC,7.0,41.0,45.0,69.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,45.0,69.0,64.0,75.0
+,Crystal Alyssia Dunn Soubrier,Maren Nævdal Mjelde,Chelsea FCW,57.0,6.0,65.0,10.0
+,Maren Nævdal Mjelde,Drew Spence,Chelsea FCW,65.0,10.0,70.0,20.0
+,Drew Spence,Crystal Alyssia Dunn Soubrier,Chelsea FCW,71.0,22.0,79.0,7.0
+,Crystal Alyssia Dunn Soubrier,Drew Spence,Chelsea FCW,80.0,6.0,73.0,9.0
+,Drew Spence,So-Yun Ji,Chelsea FCW,66.0,9.0,62.0,31.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,61.0,30.0,70.0,24.0
+,Keira Walsh,Isobel Mary Christiansen,Manchester City WFC,51.0,57.0,56.0,45.0
+,Isobel Mary Christiansen,Keira Walsh,Manchester City WFC,56.0,45.0,52.0,44.0
+,Keira Walsh,Abbie McManus,Manchester City WFC,50.0,49.0,33.0,47.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,33.0,43.0,32.0,18.0
+,Jennifer Patricia Beattie,Nadia Nadim,Manchester City WFC,32.0,14.0,79.0,24.0
+,Nadia Nadim,Julia Spetsmark,Manchester City WFC,80.0,21.0,77.0,23.0
+,Millie Bright,Maren Nævdal Mjelde,Chelsea FCW,44.0,58.0,39.0,51.0
+,Maren Nævdal Mjelde,Rut Hedvig Lindahl,Chelsea FCW,39.0,50.0,12.0,44.0
+,Rut Hedvig Lindahl,Crystal Alyssia Dunn Soubrier,Chelsea FCW,16.0,51.0,36.0,17.0
+,Nikita Parris,Jill Scott,Manchester City WFC,88.0,53.0,82.0,59.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,82.0,60.0,77.0,73.0
+,Esme Beth Morgan,Isobel Mary Christiansen,Manchester City WFC,79.0,67.0,90.0,51.0
+,Isobel Mary Christiansen,Jill Scott,Manchester City WFC,85.0,55.0,99.0,77.0
+,Jill Scott,Nikita Parris,Manchester City WFC,98.0,62.0,116.0,53.0
+,Nikita Parris,Isobel Mary Christiansen,Manchester City WFC,115.0,55.0,112.0,62.0
+,Isobel Mary Christiansen,Julia Spetsmark,Manchester City WFC,112.0,62.0,115.0,27.0
+,Julia Spetsmark,Jill Scott,Manchester City WFC,119.0,26.0,101.0,50.0
+,Isobel Mary Christiansen,,Manchester City WFC,120.0,1.0,109.0,37.0
+,Julia Spetsmark,,Manchester City WFC,95.0,41.0,95.0,45.0
+,Hannah Jayne Blundell,Ramona Bachmann,Chelsea FCW,35.0,31.0,57.0,65.0
+,Ramona Bachmann,So-Yun Ji,Chelsea FCW,95.0,56.0,109.0,58.0
+,So-Yun Ji,Crystal Alyssia Dunn Soubrier,Chelsea FCW,113.0,66.0,92.0,73.0
+,Crystal Alyssia Dunn Soubrier,Millie Bright,Chelsea FCW,87.0,73.0,70.0,68.0
+,Millie Bright,Anita Amma Ankyewah Asante,Chelsea FCW,76.0,63.0,62.0,40.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,62.0,37.0,69.0,20.0
+,Magdalena Lilly Eriksson,Hannah Jayne Blundell,Chelsea FCW,70.0,21.0,91.0,7.0
+,Hannah Jayne Blundell,Magdalena Lilly Eriksson,Chelsea FCW,86.0,2.0,75.0,9.0
+,Magdalena Lilly Eriksson,Anita Amma Ankyewah Asante,Chelsea FCW,70.0,11.0,54.0,28.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,54.0,31.0,56.0,56.0
+,Millie Bright,Crystal Alyssia Dunn Soubrier,Chelsea FCW,55.0,62.0,84.0,77.0
+,Crystal Alyssia Dunn Soubrier,So-Yun Ji,Chelsea FCW,83.0,77.0,75.0,71.0
+,So-Yun Ji,Millie Bright,Chelsea FCW,75.0,70.0,58.0,73.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,59.0,74.0,74.0,78.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,71.0,76.0,80.0,78.0
+,Maren Nævdal Mjelde,Ramona Bachmann,Chelsea FCW,80.0,77.0,89.0,74.0
+,Demi Stokes,Nadia Nadim,Manchester City WFC,32.0,3.0,92.0,1.0
+,So-Yun Ji,Anita Amma Ankyewah Asante,Chelsea FCW,29.0,77.0,30.0,41.0
+,Anita Amma Ankyewah Asante,Drew Spence,Chelsea FCW,31.0,42.0,44.0,41.0
+,Drew Spence,Magdalena Lilly Eriksson,Chelsea FCW,45.0,38.0,37.0,22.0
+,Magdalena Lilly Eriksson,Francesca Kirby,Chelsea FCW,47.0,20.0,89.0,23.0
+,Abbie McManus,Ellie Roebuck,Manchester City WFC,24.0,58.0,8.0,43.0
+,Ellie Roebuck,Esme Beth Morgan,Manchester City WFC,8.0,43.0,22.0,63.0
+,Esme Beth Morgan,Abbie McManus,Manchester City WFC,22.0,63.0,12.0,66.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,28.0,68.0,30.0,65.0
+,Esme Beth Morgan,Abbie McManus,Manchester City WFC,30.0,65.0,25.0,69.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,25.0,69.0,32.0,66.0
+,Esme Beth Morgan,Nadia Nadim,Manchester City WFC,42.0,77.0,81.0,59.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,40.0,22.0,43.0,19.0
+,Magdalena Lilly Eriksson,Hannah Jayne Blundell,Chelsea FCW,42.0,19.0,52.0,5.0
+,Hannah Jayne Blundell,Magdalena Lilly Eriksson,Chelsea FCW,49.0,4.0,41.0,11.0
+,Magdalena Lilly Eriksson,Hannah Jayne Blundell,Chelsea FCW,50.0,3.0,45.0,2.0
+,Hannah Jayne Blundell,Anita Amma Ankyewah Asante,Chelsea FCW,42.0,1.0,30.0,24.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,27.0,27.0,30.0,56.0
+,Millie Bright,Rut Hedvig Lindahl,Chelsea FCW,31.0,57.0,13.0,50.0
+,Rut Hedvig Lindahl,Magdalena Lilly Eriksson,Chelsea FCW,15.0,49.0,22.0,19.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,39.0,18.0,42.0,28.0
+,Maren Nævdal Mjelde,Rut Hedvig Lindahl,Chelsea FCW,39.0,31.0,14.0,44.0
+,Rut Hedvig Lindahl,Millie Bright,Chelsea FCW,15.0,44.0,23.0,64.0
+,Millie Bright,Crystal Alyssia Dunn Soubrier,Chelsea FCW,21.0,66.0,35.0,79.0
+,Crystal Alyssia Dunn Soubrier,Millie Bright,Chelsea FCW,35.0,77.0,34.0,64.0
+,Millie Bright,Ramona Bachmann,Chelsea FCW,33.0,66.0,47.0,75.0
+,Crystal Alyssia Dunn Soubrier,Millie Bright,Chelsea FCW,55.0,80.0,37.0,76.0
+,Millie Bright,Anita Amma Ankyewah Asante,Chelsea FCW,39.0,75.0,36.0,55.0
+,Anita Amma Ankyewah Asante,Hannah Jayne Blundell,Chelsea FCW,39.0,49.0,66.0,8.0
+,Nikita Parris,Keira Walsh,Manchester City WFC,50.0,74.0,50.0,58.0
+,Keira Walsh,Esme Beth Morgan,Manchester City WFC,54.0,63.0,37.0,74.0
+,Esme Beth Morgan,Abbie McManus,Manchester City WFC,37.0,74.0,33.0,57.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,31.0,51.0,30.0,23.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,30.0,21.0,38.0,10.0
+,Jennifer Patricia Beattie,,Manchester City WFC,31.0,7.0,62.0,7.0
+,Nadia Nadim,Julia Spetsmark,Manchester City WFC,90.0,1.0,78.0,8.0
+,Julia Spetsmark,Demi Stokes,Manchester City WFC,82.0,12.0,74.0,5.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,74.0,6.0,74.0,17.0
+,Isobel Mary Christiansen,Demi Stokes,Manchester City WFC,74.0,17.0,78.0,5.0
+,Demi Stokes,Nadia Nadim,Manchester City WFC,82.0,6.0,86.0,15.0
+,Nadia Nadim,Isobel Mary Christiansen,Manchester City WFC,86.0,15.0,86.0,30.0
+,Isobel Mary Christiansen,Nikita Parris,Manchester City WFC,86.0,30.0,96.0,37.0
+,Magdalena Lilly Eriksson,So-Yun Ji,Chelsea FCW,26.0,46.0,33.0,50.0
+,Julia Spetsmark,Nikita Parris,Manchester City WFC,90.0,25.0,118.0,55.0
+,Rut Hedvig Lindahl,Drew Spence,Chelsea FCW,13.0,52.0,50.0,55.0
+,Drew Spence,So-Yun Ji,Chelsea FCW,48.0,54.0,36.0,56.0
+,So-Yun Ji,Millie Bright,Chelsea FCW,37.0,54.0,37.0,78.0
+,Millie Bright,,Chelsea FCW,35.0,75.0,40.0,74.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,48.0,80.0,64.0,73.0
+,So-Yun Ji,Francesca Kirby,Chelsea FCW,75.0,68.0,100.0,70.0
+,Abbie McManus,Nadia Nadim,Manchester City WFC,17.0,9.0,47.0,19.0
+,Millie Bright,Francesca Kirby,Chelsea FCW,74.0,62.0,95.0,57.0
+,Francesca Kirby,Crystal Alyssia Dunn Soubrier,Chelsea FCW,98.0,42.0,115.0,6.0
+,Crystal Alyssia Dunn Soubrier,,Chelsea FCW,118.0,10.0,116.0,40.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,92.0,80.0,86.0,74.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,90.0,76.0,95.0,75.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,94.0,76.0,86.0,78.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,85.0,77.0,90.0,77.0
+,Hannah Jayne Blundell,Anita Amma Ankyewah Asante,Chelsea FCW,84.0,71.0,60.0,58.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,61.0,61.0,63.0,35.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,64.0,33.0,99.0,9.0
+,Crystal Alyssia Dunn Soubrier,Francesca Kirby,Chelsea FCW,111.0,29.0,112.0,43.0
+,Ellie Roebuck,Nadia Nadim,Manchester City WFC,9.0,44.0,63.0,61.0
+,Magdalena Lilly Eriksson,Millie Bright,Chelsea FCW,58.0,20.0,57.0,35.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,58.0,35.0,59.0,47.0
+,Hannah Jayne Blundell,Maren Nævdal Mjelde,Chelsea FCW,57.0,45.0,64.0,34.0
+,Jill Scott,Nadia Nadim,Manchester City WFC,57.0,47.0,66.0,46.0
+,Nadia Nadim,Isobel Mary Christiansen,Manchester City WFC,66.0,46.0,56.0,38.0
+,Drew Spence,Ramona Bachmann,Chelsea FCW,62.0,26.0,91.0,8.0
+,Ramona Bachmann,,Chelsea FCW,115.0,23.0,108.0,50.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,110.0,62.0,93.0,66.0
+,So-Yun Ji,Drew Spence,Chelsea FCW,94.0,66.0,116.0,37.0
+,Ellie Roebuck,Keira Walsh,Manchester City WFC,10.0,47.0,42.0,60.0
+,Keira Walsh,Jill Scott,Manchester City WFC,42.0,60.0,49.0,61.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,49.0,61.0,41.0,74.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,41.0,74.0,90.0,76.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,15.0,1.0,35.0,3.0
+,Maren Nævdal Mjelde,Francesca Kirby,Chelsea FCW,35.0,3.0,42.0,11.0
+,Jill Scott,Keira Walsh,Manchester City WFC,71.0,57.0,57.0,59.0
+,Keira Walsh,Jill Scott,Manchester City WFC,63.0,59.0,79.0,55.0
+,Jill Scott,Nikita Parris,Manchester City WFC,90.0,57.0,116.0,67.0
+,Crystal Alyssia Dunn Soubrier,Francesca Kirby,Chelsea FCW,9.0,3.0,36.0,10.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,112.0,80.0,113.0,71.0
+,Nikita Parris,,Manchester City WFC,119.0,67.0,117.0,61.0
+,Magdalena Lilly Eriksson,,Chelsea FCW,6.0,14.0,50.0,7.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,69.0,71.0,54.0,40.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,56.0,35.0,79.0,5.0
+,Demi Stokes,Nadia Nadim,Manchester City WFC,87.0,17.0,100.0,27.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,21.0,54.0,23.0,72.0
+,Demi Stokes,Keira Walsh,Manchester City WFC,104.0,17.0,85.0,23.0
+,Keira Walsh,Demi Stokes,Manchester City WFC,86.0,23.0,96.0,10.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,96.0,10.0,95.0,17.0
+,Julia Spetsmark,Demi Stokes,Manchester City WFC,95.0,17.0,110.0,11.0
+,Demi Stokes,Nadia Nadim,Manchester City WFC,112.0,14.0,111.0,37.0
+,Millie Bright,Francesca Kirby,Chelsea FCW,23.0,52.0,53.0,52.0
+,Jennifer Patricia Beattie,,Manchester City WFC,68.0,29.0,65.0,11.0
+,Drew Spence,Ramona Bachmann,Chelsea FCW,56.0,70.0,85.0,74.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,89.0,54.0,91.0,47.0
+,So-Yun Ji,Drew Spence,Chelsea FCW,91.0,52.0,98.0,50.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,23.0,31.0,22.0,25.0
+,Demi Stokes,Nadia Nadim,Manchester City WFC,22.0,25.0,59.0,29.0
+,Millie Bright,Magdalena Lilly Eriksson,Chelsea FCW,62.0,52.0,55.0,35.0
+,Magdalena Lilly Eriksson,Anita Amma Ankyewah Asante,Chelsea FCW,54.0,35.0,43.0,38.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,43.0,41.0,53.0,22.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,53.0,23.0,59.0,35.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,63.0,44.0,77.0,67.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,78.0,62.0,70.0,51.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,69.0,51.0,69.0,53.0
+,So-Yun Ji,Magdalena Lilly Eriksson,Chelsea FCW,70.0,54.0,57.0,26.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,63.0,25.0,106.0,5.0
+,Crystal Alyssia Dunn Soubrier,Francesca Kirby,Chelsea FCW,115.0,13.0,108.0,18.0
+,Francesca Kirby,So-Yun Ji,Chelsea FCW,107.0,20.0,87.0,38.0
+,So-Yun Ji,Millie Bright,Chelsea FCW,91.0,35.0,86.0,58.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,90.0,59.0,101.0,72.0
+,Hannah Jayne Blundell,,Chelsea FCW,104.0,56.0,113.0,38.0
+,Ramona Bachmann,So-Yun Ji,Chelsea FCW,119.0,1.0,116.0,19.0
+,So-Yun Ji,Francesca Kirby,Chelsea FCW,116.0,20.0,101.0,22.0
+,Francesca Kirby,Maren Nævdal Mjelde,Chelsea FCW,99.0,23.0,98.0,44.0
+,Maren Nævdal Mjelde,Millie Bright,Chelsea FCW,99.0,53.0,108.0,58.0
+,Millie Bright,Maren Nævdal Mjelde,Chelsea FCW,107.0,58.0,100.0,53.0
+,Jennifer Patricia Beattie,Jill Scott,Manchester City WFC,18.0,26.0,35.0,16.0
+,Jill Scott,Nikita Parris,Manchester City WFC,67.0,25.0,108.0,23.0
+,Rut Hedvig Lindahl,Anita Amma Ankyewah Asante,Chelsea FCW,14.0,46.0,24.0,27.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,28.0,26.0,30.0,9.0
+,Magdalena Lilly Eriksson,Ramona Bachmann,Chelsea FCW,34.0,6.0,50.0,4.0
+,Ramona Bachmann,Crystal Alyssia Dunn Soubrier,Chelsea FCW,65.0,3.0,84.0,3.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,71.0,6.0,72.0,20.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,71.0,20.0,79.0,12.0
+,So-Yun Ji,Anita Amma Ankyewah Asante,Chelsea FCW,80.0,12.0,53.0,25.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,55.0,25.0,53.0,54.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,52.0,53.0,68.0,74.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,40.0,18.0,53.0,9.0
+,Julia Spetsmark,Jennifer Patricia Beattie,Manchester City WFC,47.0,7.0,30.0,9.0
+,Jennifer Patricia Beattie,Jill Scott,Manchester City WFC,32.0,6.0,70.0,9.0
+,Jill Scott,Julia Spetsmark,Manchester City WFC,67.0,6.0,63.0,3.0
+,Maren Nævdal Mjelde,Drew Spence,Chelsea FCW,56.0,74.0,76.0,76.0
+,Drew Spence,Francesca Kirby,Chelsea FCW,76.0,70.0,81.0,68.0
+,Ellie Roebuck,,Manchester City WFC,6.0,45.0,52.0,53.0
+,So-Yun Ji,,Chelsea FCW,69.0,28.0,80.0,18.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,40.0,79.0,52.0,75.0
+,Nikita Parris,Isobel Mary Christiansen,Manchester City WFC,56.0,53.0,65.0,41.0
+,Isobel Mary Christiansen,Demi Stokes,Manchester City WFC,67.0,36.0,73.0,14.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,94.0,17.0,84.0,24.0
+,Isobel Mary Christiansen,Nikita Parris,Manchester City WFC,84.0,25.0,93.0,38.0
+,Nikita Parris,Julia Spetsmark,Manchester City WFC,93.0,39.0,98.0,32.0
+,Julia Spetsmark,,Manchester City WFC,98.0,32.0,100.0,36.0
+,Anita Amma Ankyewah Asante,Francesca Kirby,Chelsea FCW,20.0,44.0,33.0,46.0
+,Isobel Mary Christiansen,Demi Stokes,Manchester City WFC,88.0,35.0,103.0,21.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,109.0,17.0,100.0,21.0
+,Julia Spetsmark,Jennifer Patricia Beattie,Manchester City WFC,91.0,6.0,61.0,15.0
+,Jennifer Patricia Beattie,Esme Beth Morgan,Manchester City WFC,55.0,19.0,67.0,42.0
+,Esme Beth Morgan,Nadia Nadim,Manchester City WFC,72.0,36.0,91.0,34.0
+,Nadia Nadim,Isobel Mary Christiansen,Manchester City WFC,91.0,34.0,80.0,33.0
+,Isobel Mary Christiansen,Jill Scott,Manchester City WFC,77.0,33.0,82.0,50.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,82.0,50.0,80.0,61.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,80.0,61.0,89.0,66.0
+,Crystal Alyssia Dunn Soubrier,Maren Nævdal Mjelde,Chelsea FCW,28.0,16.0,29.0,19.0
+,Maren Nævdal Mjelde,Ramona Bachmann,Chelsea FCW,33.0,20.0,44.0,3.0
+,Ramona Bachmann,Drew Spence,Chelsea FCW,68.0,13.0,60.0,19.0
+,Crystal Alyssia Dunn Soubrier,Magdalena Lilly Eriksson,Chelsea FCW,79.0,6.0,65.0,10.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,66.0,10.0,69.0,16.0
+,Maren Nævdal Mjelde,Magdalena Lilly Eriksson,Chelsea FCW,69.0,16.0,59.0,10.0
+,Magdalena Lilly Eriksson,Anita Amma Ankyewah Asante,Chelsea FCW,58.0,17.0,33.0,31.0
+,Anita Amma Ankyewah Asante,Rut Hedvig Lindahl,Chelsea FCW,29.0,26.0,10.0,41.0
+,Rut Hedvig Lindahl,Drew Spence,Chelsea FCW,12.0,54.0,61.0,66.0
+,Jennifer Patricia Beattie,Isobel Mary Christiansen,Manchester City WFC,60.0,15.0,75.0,29.0
+,Isobel Mary Christiansen,Keira Walsh,Manchester City WFC,74.0,27.0,65.0,28.0
+,Keira Walsh,Esme Beth Morgan,Manchester City WFC,63.0,36.0,50.0,48.0
+,Esme Beth Morgan,Demi Stokes,Manchester City WFC,53.0,44.0,69.0,14.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,93.0,22.0,102.0,4.0
+,Julia Spetsmark,Demi Stokes,Manchester City WFC,101.0,9.0,100.0,15.0
+,Demi Stokes,Julia Spetsmark,Manchester City WFC,101.0,14.0,113.0,27.0
+,Millie Bright,,Chelsea FCW,8.0,62.0,34.0,80.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,95.0,1.0,86.0,8.0
+,Isobel Mary Christiansen,Jennifer Patricia Beattie,Manchester City WFC,83.0,5.0,75.0,7.0
+,Ramona Bachmann,Maren Nævdal Mjelde,Chelsea FCW,52.0,60.0,79.0,22.0
+,Maren Nævdal Mjelde,Drew Spence,Chelsea FCW,100.0,25.0,96.0,55.0
+,Ellie Roebuck,Jill Scott,Manchester City WFC,6.0,45.0,53.0,57.0
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,76.0,24.0,107.0,3.0
+,Ramona Bachmann,So-Yun Ji,Chelsea FCW,109.0,22.0,100.0,26.0
+,So-Yun Ji,Millie Bright,Chelsea FCW,96.0,33.0,90.0,56.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,90.0,55.0,102.0,68.0
+,Ellie Roebuck,Jennifer Patricia Beattie,Manchester City WFC,6.0,42.0,11.0,17.0
+,Jennifer Patricia Beattie,Nadia Nadim,Manchester City WFC,13.0,14.0,68.0,22.0
+,Nadia Nadim,Julia Spetsmark,Manchester City WFC,71.0,19.0,54.0,9.0
+,Hannah Jayne Blundell,Anita Amma Ankyewah Asante,Chelsea FCW,52.0,72.0,42.0,54.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,45.0,47.0,37.0,30.0
+,Magdalena Lilly Eriksson,Hannah Jayne Blundell,Chelsea FCW,55.0,26.0,91.0,79.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,15.0,1.0,10.0,15.0
+,Jennifer Patricia Beattie,Jill Scott,Manchester City WFC,7.0,26.0,37.0,62.0
+,Crystal Alyssia Dunn Soubrier,Maren Nævdal Mjelde,Chelsea FCW,80.0,22.0,76.0,25.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,79.0,28.0,78.0,57.0
+,So-Yun Ji,Drew Spence,Chelsea FCW,86.0,56.0,94.0,57.0
+,Drew Spence,Hannah Jayne Blundell,Chelsea FCW,95.0,57.0,92.0,66.0
+,Hannah Jayne Blundell,Drew Spence,Chelsea FCW,93.0,66.0,108.0,59.0
+,Drew Spence,So-Yun Ji,Chelsea FCW,107.0,60.0,94.0,58.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,94.0,67.0,98.0,75.0
+,Hannah Jayne Blundell,Drew Spence,Chelsea FCW,104.0,76.0,92.0,73.0
+,Drew Spence,So-Yun Ji,Chelsea FCW,95.0,73.0,86.0,73.0
+,So-Yun Ji,Drew Spence,Chelsea FCW,86.0,73.0,93.0,77.0
+,Drew Spence,Hannah Jayne Blundell,Chelsea FCW,92.0,78.0,94.0,69.0
+,Hannah Jayne Blundell,Anita Amma Ankyewah Asante,Chelsea FCW,88.0,65.0,82.0,51.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,82.0,51.0,67.0,35.0
+,Magdalena Lilly Eriksson,Millie Bright,Chelsea FCW,64.0,35.0,70.0,62.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,68.0,66.0,70.0,76.0
+,So-Yun Ji,Anita Amma Ankyewah Asante,Chelsea FCW,74.0,73.0,70.0,59.0
+,Anita Amma Ankyewah Asante,So-Yun Ji,Chelsea FCW,70.0,55.0,68.0,62.0
+,So-Yun Ji,Magdalena Lilly Eriksson,Chelsea FCW,68.0,61.0,57.0,32.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,61.0,30.0,106.0,3.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,112.0,5.0,110.0,15.0
+,Julia Spetsmark,Isobel Mary Christiansen,Manchester City WFC,20.0,31.0,20.0,37.0
+,Isobel Mary Christiansen,Julia Spetsmark,Manchester City WFC,20.0,37.0,20.0,35.0
+,Nadia Nadim,Keira Walsh,Manchester City WFC,61.0,41.0,51.0,40.0
+,Keira Walsh,Abbie McManus,Manchester City WFC,46.0,40.0,32.0,54.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,32.0,54.0,38.0,75.0
+,Esme Beth Morgan,Nadia Nadim,Manchester City WFC,54.0,73.0,108.0,54.0
+,Rut Hedvig Lindahl,Ramona Bachmann,Chelsea FCW,17.0,31.0,83.0,23.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,38.0,58.0,47.0,54.0
+,Drew Spence,Crystal Alyssia Dunn Soubrier,Chelsea FCW,78.0,14.0,81.0,6.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,88.0,6.0,115.0,13.0
+,Crystal Alyssia Dunn Soubrier,Drew Spence,Chelsea FCW,113.0,1.0,107.0,10.0
+,Drew Spence,Crystal Alyssia Dunn Soubrier,Chelsea FCW,110.0,10.0,113.0,4.0
+,Crystal Alyssia Dunn Soubrier,Drew Spence,Chelsea FCW,113.0,4.0,108.0,7.0
+,Drew Spence,Magdalena Lilly Eriksson,Chelsea FCW,101.0,7.0,77.0,5.0
+,Magdalena Lilly Eriksson,So-Yun Ji,Chelsea FCW,82.0,8.0,78.0,31.0
+,Isobel Mary Christiansen,Claire Emslie,Manchester City WFC,43.0,50.0,59.0,32.0
+,Anita Amma Ankyewah Asante,,Chelsea FCW,43.0,39.0,45.0,39.0
+,Millie Bright,,Chelsea FCW,37.0,39.0,68.0,47.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,54.0,34.0,73.0,7.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,107.0,16.0,111.0,6.0
+,Claire Emslie,,Manchester City WFC,112.0,6.0,112.0,80.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,12.0,1.0,35.0,3.0
+,Ramona Bachmann,Crystal Alyssia Dunn Soubrier,Chelsea FCW,32.0,4.0,26.0,7.0
+,Crystal Alyssia Dunn Soubrier,Drew Spence,Chelsea FCW,25.0,8.0,36.0,16.0
+,Drew Spence,Magdalena Lilly Eriksson,Chelsea FCW,28.0,11.0,9.0,6.0
+,Magdalena Lilly Eriksson,So-Yun Ji,Chelsea FCW,9.0,7.0,36.0,31.0
+,Jill Scott,Demi Stokes,Manchester City WFC,83.0,43.0,86.0,24.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,86.0,24.0,94.0,14.0
+,Millie Bright,Ramona Bachmann,Chelsea FCW,41.0,79.0,101.0,47.0
+,Ellie Roebuck,Jennifer Patricia Beattie,Manchester City WFC,20.0,34.0,27.0,15.0
+,Jennifer Patricia Beattie,Abbie McManus,Manchester City WFC,27.0,15.0,23.0,20.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,23.0,20.0,28.0,12.0
+,Jennifer Patricia Beattie,Ellie Roebuck,Manchester City WFC,28.0,12.0,10.0,36.0
+,Ellie Roebuck,Esme Beth Morgan,Manchester City WFC,9.0,42.0,32.0,67.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,32.0,67.0,42.0,59.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,35.0,57.0,26.0,65.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,26.0,65.0,39.0,76.0
+,Nikita Parris,Nadia Nadim,Manchester City WFC,39.0,76.0,54.0,56.0
+,Nadia Nadim,Keira Walsh,Manchester City WFC,43.0,61.0,36.0,58.0
+,Keira Walsh,Nadia Nadim,Manchester City WFC,38.0,67.0,39.0,67.0
+,Nadia Nadim,Isobel Mary Christiansen,Manchester City WFC,48.0,54.0,54.0,44.0
+,Isobel Mary Christiansen,Jennifer Patricia Beattie,Manchester City WFC,52.0,43.0,42.0,25.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,44.0,25.0,70.0,22.0
+,So-Yun Ji,Francesca Kirby,Chelsea FCW,31.0,54.0,68.0,58.0
+,Francesca Kirby,Ramona Bachmann,Chelsea FCW,86.0,48.0,98.0,28.0
+,Ellie Roebuck,Jennifer Patricia Beattie,Manchester City WFC,8.0,41.0,23.0,19.0
+,Jennifer Patricia Beattie,Isobel Mary Christiansen,Manchester City WFC,29.0,22.0,37.0,27.0
+,Isobel Mary Christiansen,Jennifer Patricia Beattie,Manchester City WFC,40.0,25.0,46.0,8.0
+,Jennifer Patricia Beattie,Claire Emslie,Manchester City WFC,51.0,10.0,69.0,16.0
+,Claire Emslie,Demi Stokes,Manchester City WFC,73.0,15.0,68.0,2.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,68.0,2.0,68.0,21.0
+,Isobel Mary Christiansen,Jennifer Patricia Beattie,Manchester City WFC,64.0,18.0,50.0,5.0
+,Jennifer Patricia Beattie,Keira Walsh,Manchester City WFC,51.0,7.0,55.0,14.0
+,Keira Walsh,Jennifer Patricia Beattie,Manchester City WFC,55.0,14.0,56.0,4.0
+,Jennifer Patricia Beattie,Claire Emslie,Manchester City WFC,57.0,5.0,69.0,13.0
+,Claire Emslie,Demi Stokes,Manchester City WFC,80.0,14.0,108.0,5.0
+,Demi Stokes,Nikita Parris,Manchester City WFC,108.0,5.0,115.0,43.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,8.0,12.0,16.0,4.0
+,Isobel Mary Christiansen,Nikita Parris,Manchester City WFC,33.0,15.0,37.0,34.0
+,Maren Nævdal Mjelde,Francesca Kirby,Chelsea FCW,84.0,47.0,90.0,55.0
+,Jill Scott,Demi Stokes,Manchester City WFC,12.0,35.0,12.0,19.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,27.0,2.0,44.0,8.0
+,Claire Emslie,Demi Stokes,Manchester City WFC,41.0,5.0,30.0,7.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,30.0,7.0,24.0,10.0
+,Jennifer Patricia Beattie,Jill Scott,Manchester City WFC,26.0,14.0,36.0,41.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,36.0,44.0,32.0,67.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,35.0,68.0,74.0,64.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,47.0,17.0,74.0,11.0
+,Ramona Bachmann,,Chelsea FCW,89.0,19.0,120.0,56.0
+,Ellie Roebuck,Jennifer Patricia Beattie,Manchester City WFC,6.0,45.0,12.0,15.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,13.0,14.0,31.0,3.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,31.0,3.0,45.0,3.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,34.0,1.0,17.0,8.0
+,Jennifer Patricia Beattie,Ellie Roebuck,Manchester City WFC,13.0,12.0,4.0,38.0
+,Ellie Roebuck,Abbie McManus,Manchester City WFC,8.0,42.0,11.0,65.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,11.0,65.0,29.0,76.0
+,Esme Beth Morgan,,Manchester City WFC,29.0,76.0,30.0,76.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,33.0,80.0,45.0,78.0
+,Maren Nævdal Mjelde,,Chelsea FCW,75.0,3.0,77.0,3.0
+,Maren Nævdal Mjelde,Ramona Bachmann,Chelsea FCW,79.0,1.0,87.0,9.0
+,Nikita Parris,Esme Beth Morgan,Manchester City WFC,38.0,57.0,32.0,59.0
+,Esme Beth Morgan,,Manchester City WFC,32.0,59.0,36.0,58.0
+,Esme Beth Morgan,Keira Walsh,Manchester City WFC,27.0,80.0,28.0,67.0
+,Keira Walsh,Esme Beth Morgan,Manchester City WFC,22.0,71.0,22.0,79.0
+,Esme Beth Morgan,Keira Walsh,Manchester City WFC,22.0,79.0,28.0,70.0
+,Keira Walsh,Nikita Parris,Manchester City WFC,28.0,70.0,45.0,80.0
+,Francesca Kirby,So-Yun Ji,Chelsea FCW,71.0,1.0,70.0,13.0
+,So-Yun Ji,Crystal Alyssia Dunn Soubrier,Chelsea FCW,70.0,14.0,66.0,3.0
+,Crystal Alyssia Dunn Soubrier,So-Yun Ji,Chelsea FCW,65.0,4.0,56.0,12.0
+,So-Yun Ji,Magdalena Lilly Eriksson,Chelsea FCW,56.0,11.0,40.0,4.0
+,Magdalena Lilly Eriksson,Anita Amma Ankyewah Asante,Chelsea FCW,44.0,6.0,35.0,28.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,35.0,27.0,38.0,55.0
+,Millie Bright,Francesca Kirby,Chelsea FCW,38.0,62.0,75.0,57.0
+,Jennifer Patricia Beattie,Claire Emslie,Manchester City WFC,68.0,24.0,90.0,3.0
+,Claire Emslie,Demi Stokes,Manchester City WFC,90.0,3.0,80.0,3.0
+,Demi Stokes,Keira Walsh,Manchester City WFC,85.0,10.0,77.0,17.0
+,Keira Walsh,,Manchester City WFC,77.0,17.0,80.0,18.0
+,Keira Walsh,Demi Stokes,Manchester City WFC,73.0,5.0,83.0,3.0
+,Demi Stokes,Keira Walsh,Manchester City WFC,83.0,3.0,70.0,3.0
+,Keira Walsh,Jennifer Patricia Beattie,Manchester City WFC,67.0,4.0,39.0,10.0
+,Jennifer Patricia Beattie,Abbie McManus,Manchester City WFC,39.0,10.0,38.0,32.0
+,Abbie McManus,Ellie Roebuck,Manchester City WFC,35.0,31.0,14.0,45.0
+,Ellie Roebuck,Nadia Nadim,Manchester City WFC,26.0,54.0,71.0,60.0
+,Magdalena Lilly Eriksson,Drew Spence,Chelsea FCW,50.0,21.0,75.0,32.0
+,Keira Walsh,Nikita Parris,Manchester City WFC,46.0,49.0,70.0,60.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,51.0,21.0,65.0,19.0
+,Maren Nævdal Mjelde,Crystal Alyssia Dunn Soubrier,Chelsea FCW,64.0,14.0,69.0,11.0
+,Keira Walsh,Abbie McManus,Manchester City WFC,35.0,50.0,31.0,54.0
+,Abbie McManus,Ellie Roebuck,Manchester City WFC,30.0,53.0,8.0,39.0
+,Ellie Roebuck,Nadia Nadim,Manchester City WFC,15.0,48.0,67.0,52.0
+,Nadia Nadim,Nikita Parris,Manchester City WFC,67.0,52.0,71.0,59.0
+,Nikita Parris,,Manchester City WFC,70.0,62.0,80.0,66.0
+,Maren Nævdal Mjelde,Rut Hedvig Lindahl,Chelsea FCW,41.0,15.0,14.0,27.0
+,Rut Hedvig Lindahl,Drew Spence,Chelsea FCW,14.0,27.0,53.0,11.0
+,Esme Beth Morgan,Isobel Mary Christiansen,Manchester City WFC,68.0,70.0,82.0,43.0
+,Anita Amma Ankyewah Asante,Ramona Bachmann,Chelsea FCW,34.0,40.0,99.0,18.0
+,Maren Nævdal Mjelde,Francesca Kirby,Chelsea FCW,115.0,80.0,111.0,75.0
+,Ramona Bachmann,,Chelsea FCW,111.0,78.0,114.0,49.0
+,Crystal Alyssia Dunn Soubrier,Erin Cuthbert,Chelsea FCW,87.0,20.0,110.0,3.0
+,Erin Cuthbert,,Chelsea FCW,116.0,22.0,116.0,25.0
+,Abbie McManus,Nikita Parris,Manchester City WFC,5.0,53.0,11.0,80.0
+,Crystal Alyssia Dunn Soubrier,Erin Cuthbert,Chelsea FCW,96.0,1.0,120.0,8.0
+,Ellie Roebuck,Jennifer Patricia Beattie,Manchester City WFC,6.0,43.0,14.0,13.0
+,Jennifer Patricia Beattie,Nadia Nadim,Manchester City WFC,26.0,9.0,79.0,13.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,33.0,74.0,36.0,34.0
+,Magdalena Lilly Eriksson,Erin Cuthbert,Chelsea FCW,46.0,15.0,78.0,16.0
+,Erin Cuthbert,Maren Nævdal Mjelde,Chelsea FCW,72.0,23.0,53.0,25.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,51.0,21.0,62.0,45.0
+,So-Yun Ji,Anita Amma Ankyewah Asante,Chelsea FCW,62.0,45.0,48.0,37.0
+,Anita Amma Ankyewah Asante,Hannah Jayne Blundell,Chelsea FCW,46.0,49.0,67.0,69.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,63.0,63.0,53.0,60.0
+,So-Yun Ji,Rut Hedvig Lindahl,Chelsea FCW,53.0,59.0,19.0,45.0
+,Rut Hedvig Lindahl,Francesca Kirby,Chelsea FCW,24.0,50.0,79.0,71.0
+,Jennifer Patricia Beattie,Nikita Parris,Manchester City WFC,44.0,20.0,87.0,58.0
+,Magdalena Lilly Eriksson,,Chelsea FCW,34.0,23.0,45.0,15.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,74.0,74.0,68.0,75.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,68.0,75.0,75.0,57.0
+,Nikita Parris,Abbie McManus,Manchester City WFC,72.0,57.0,46.0,60.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,54.0,46.0,44.0,22.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,44.0,22.0,51.0,7.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,49.0,5.0,65.0,3.0
+,Hannah Jayne Blundell,Millie Bright,Chelsea FCW,39.0,69.0,33.0,63.0
+,Millie Bright,Francesca Kirby,Chelsea FCW,33.0,77.0,68.0,71.0
+,Jennifer Patricia Beattie,Keira Walsh,Manchester City WFC,53.0,10.0,52.0,26.0
+,Ramona Bachmann,Francesca Kirby,Chelsea FCW,69.0,55.0,106.0,67.0
+,Keira Walsh,Abbie McManus,Manchester City WFC,6.0,25.0,10.0,14.0
+,Abbie McManus,,Manchester City WFC,8.0,10.0,8.0,10.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,29.0,1.0,9.0,8.0
+,Jennifer Patricia Beattie,Ellie Roebuck,Manchester City WFC,9.0,10.0,4.0,38.0
+,Ellie Roebuck,Esme Beth Morgan,Manchester City WFC,8.0,45.0,27.0,69.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,52.0,73.0,85.0,74.0
+,Crystal Alyssia Dunn Soubrier,Erin Cuthbert,Chelsea FCW,74.0,4.0,90.0,4.0
+,Erin Cuthbert,,Chelsea FCW,94.0,7.0,89.0,6.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,94.0,1.0,120.0,10.0
+,Abbie McManus,Ellie Roebuck,Manchester City WFC,2.0,65.0,2.0,47.0
+,Ellie Roebuck,Jill Scott,Manchester City WFC,5.0,51.0,39.0,68.0
+,Maren Nævdal Mjelde,,Chelsea FCW,83.0,13.0,83.0,1.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,38.0,80.0,49.0,77.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,47.0,76.0,43.0,75.0
+,Esme Beth Morgan,Nadia Nadim,Manchester City WFC,43.0,75.0,67.0,67.0
+,Magdalena Lilly Eriksson,Erin Cuthbert,Chelsea FCW,54.0,14.0,77.0,15.0
+,Erin Cuthbert,So-Yun Ji,Chelsea FCW,77.0,18.0,63.0,22.0
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,70.0,19.0,89.0,13.0
+,Ramona Bachmann,So-Yun Ji,Chelsea FCW,89.0,13.0,84.0,3.0
+,So-Yun Ji,Crystal Alyssia Dunn Soubrier,Chelsea FCW,76.0,13.0,68.0,7.0
+,Crystal Alyssia Dunn Soubrier,So-Yun Ji,Chelsea FCW,69.0,8.0,68.0,13.0
+,So-Yun Ji,Anita Amma Ankyewah Asante,Chelsea FCW,67.0,14.0,52.0,28.0
+,Anita Amma Ankyewah Asante,Hannah Jayne Blundell,Chelsea FCW,66.0,47.0,74.0,75.0
+,Hannah Jayne Blundell,Millie Bright,Chelsea FCW,69.0,76.0,50.0,64.0
+,Millie Bright,,Chelsea FCW,45.0,64.0,85.0,64.0
+,Jennifer Patricia Beattie,Isobel Mary Christiansen,Manchester City WFC,36.0,17.0,46.0,15.0
+,Isobel Mary Christiansen,Jennifer Patricia Beattie,Manchester City WFC,46.0,15.0,34.0,27.0
+,Jennifer Patricia Beattie,Abbie McManus,Manchester City WFC,34.0,28.0,33.0,34.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,33.0,34.0,32.0,21.0
+,Jennifer Patricia Beattie,Isobel Mary Christiansen,Manchester City WFC,37.0,19.0,46.0,19.0
+,Isobel Mary Christiansen,Keira Walsh,Manchester City WFC,43.0,22.0,36.0,40.0
+,Keira Walsh,Esme Beth Morgan,Manchester City WFC,35.0,59.0,51.0,72.0
+,Esme Beth Morgan,Abbie McManus,Manchester City WFC,51.0,76.0,27.0,62.0
+,Abbie McManus,Jill Scott,Manchester City WFC,27.0,62.0,68.0,66.0
+,Maren Nævdal Mjelde,Erin Cuthbert,Chelsea FCW,53.0,15.0,72.0,19.0
+,Francesca Kirby,Ramona Bachmann,Chelsea FCW,108.0,15.0,117.0,6.0
+,Ramona Bachmann,Francesca Kirby,Chelsea FCW,112.0,6.0,109.0,10.0
+,Francesca Kirby,Crystal Alyssia Dunn Soubrier,Chelsea FCW,109.0,12.0,99.0,6.0
+,Crystal Alyssia Dunn Soubrier,Francesca Kirby,Chelsea FCW,100.0,6.0,102.0,16.0
+,Francesca Kirby,So-Yun Ji,Chelsea FCW,97.0,15.0,91.0,25.0
+,So-Yun Ji,Crystal Alyssia Dunn Soubrier,Chelsea FCW,91.0,25.0,104.0,23.0
+,Ramona Bachmann,Erin Cuthbert,Chelsea FCW,95.0,15.0,96.0,32.0
+,Erin Cuthbert,Hannah Jayne Blundell,Chelsea FCW,90.0,43.0,94.0,61.0
+,Hannah Jayne Blundell,Erin Cuthbert,Chelsea FCW,94.0,60.0,87.0,52.0
+,Erin Cuthbert,So-Yun Ji,Chelsea FCW,86.0,45.0,94.0,37.0
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,94.0,33.0,102.0,37.0
+,Ramona Bachmann,,Chelsea FCW,102.0,38.0,101.0,37.0
+,Abbie McManus,Isobel Mary Christiansen,Manchester City WFC,24.0,45.0,29.0,42.0
+,Isobel Mary Christiansen,Jill Scott,Manchester City WFC,30.0,42.0,35.0,55.0
+,Magdalena Lilly Eriksson,Maren Nævdal Mjelde,Chelsea FCW,73.0,24.0,76.0,28.0
+,Maren Nævdal Mjelde,Magdalena Lilly Eriksson,Chelsea FCW,76.0,27.0,70.0,27.0
+,Magdalena Lilly Eriksson,Millie Bright,Chelsea FCW,70.0,30.0,60.0,50.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,60.0,58.0,78.0,79.0
+,Hannah Jayne Blundell,Millie Bright,Chelsea FCW,72.0,77.0,49.0,74.0
+,Millie Bright,Rut Hedvig Lindahl,Chelsea FCW,39.0,68.0,17.0,59.0
+,Rut Hedvig Lindahl,Anita Amma Ankyewah Asante,Chelsea FCW,18.0,59.0,33.0,59.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,37.0,58.0,31.0,73.0
+,Millie Bright,Rut Hedvig Lindahl,Chelsea FCW,31.0,74.0,13.0,48.0
+,Rut Hedvig Lindahl,Hannah Jayne Blundell,Chelsea FCW,14.0,57.0,47.0,73.0
+,Hannah Jayne Blundell,Francesca Kirby,Chelsea FCW,47.0,73.0,51.0,72.0
+,Demi Stokes,Isobel Mary Christiansen,Manchester City WFC,69.0,10.0,66.0,18.0
+,Isobel Mary Christiansen,Keira Walsh,Manchester City WFC,68.0,20.0,62.0,27.0
+,Keira Walsh,Isobel Mary Christiansen,Manchester City WFC,62.0,27.0,73.0,31.0
+,Isobel Mary Christiansen,Nikita Parris,Manchester City WFC,73.0,31.0,92.0,41.0
+,Magdalena Lilly Eriksson,Anita Amma Ankyewah Asante,Chelsea FCW,30.0,39.0,32.0,22.0
+,Anita Amma Ankyewah Asante,Ramona Bachmann,Chelsea FCW,32.0,25.0,54.0,31.0
+,Ramona Bachmann,Francesca Kirby,Chelsea FCW,85.0,44.0,117.0,55.0
+,Ellie Roebuck,Keira Walsh,Manchester City WFC,14.0,37.0,26.0,37.0
+,Keira Walsh,Abbie McManus,Manchester City WFC,27.0,40.0,21.0,56.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,22.0,58.0,35.0,75.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,35.0,75.0,54.0,77.0
+,Nikita Parris,Jill Scott,Manchester City WFC,54.0,77.0,46.0,64.0
+,Jill Scott,Esme Beth Morgan,Manchester City WFC,46.0,68.0,36.0,68.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,40.0,63.0,56.0,62.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,65.0,19.0,78.0,22.0
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,70.0,26.0,81.0,45.0
+,Maren Nævdal Mjelde,,Chelsea FCW,120.0,79.0,117.0,43.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,113.0,1.0,117.0,22.0
+,Abbie McManus,,Manchester City WFC,2.0,59.0,8.0,73.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,113.0,11.0,111.0,16.0
+,Crystal Alyssia Dunn Soubrier,Francesca Kirby,Chelsea FCW,100.0,13.0,89.0,25.0
+,Francesca Kirby,So-Yun Ji,Chelsea FCW,90.0,25.0,89.0,41.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,87.0,25.0,84.0,11.0
+,Maren Nævdal Mjelde,Magdalena Lilly Eriksson,Chelsea FCW,83.0,11.0,68.0,15.0
+,Magdalena Lilly Eriksson,Crystal Alyssia Dunn Soubrier,Chelsea FCW,68.0,12.0,91.0,12.0
+,Nikita Parris,Isobel Mary Christiansen,Manchester City WFC,30.0,69.0,41.0,59.0
+,Isobel Mary Christiansen,Keira Walsh,Manchester City WFC,41.0,59.0,32.0,58.0
+,Keira Walsh,Nikita Parris,Manchester City WFC,32.0,59.0,34.0,74.0
+,Nikita Parris,,Manchester City WFC,34.0,78.0,35.0,78.0
+,Esme Beth Morgan,Nadia Nadim,Manchester City WFC,37.0,80.0,75.0,77.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,36.0,42.0,42.0,20.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,76.0,14.0,79.0,24.0
+,Claire Emslie,Demi Stokes,Manchester City WFC,79.0,24.0,78.0,7.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,77.0,8.0,79.0,18.0
+,Claire Emslie,Demi Stokes,Manchester City WFC,79.0,17.0,77.0,8.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,70.0,7.0,45.0,9.0
+,Jennifer Patricia Beattie,Nikita Parris,Manchester City WFC,45.0,13.0,54.0,76.0
+,Crystal Alyssia Dunn Soubrier,Magdalena Lilly Eriksson,Chelsea FCW,75.0,12.0,53.0,11.0
+,Magdalena Lilly Eriksson,Ramona Bachmann,Chelsea FCW,59.0,9.0,96.0,6.0
+,Esme Beth Morgan,Abbie McManus,Manchester City WFC,29.0,75.0,16.0,62.0
+,Abbie McManus,Ellie Roebuck,Manchester City WFC,16.0,60.0,7.0,41.0
+,Ellie Roebuck,Nadia Nadim,Manchester City WFC,16.0,43.0,56.0,50.0
+,Anita Amma Ankyewah Asante,So-Yun Ji,Chelsea FCW,65.0,39.0,65.0,44.0
+,So-Yun Ji,Magdalena Lilly Eriksson,Chelsea FCW,64.0,45.0,44.0,35.0
+,Magdalena Lilly Eriksson,Hannah Jayne Blundell,Chelsea FCW,44.0,33.0,71.0,80.0
+,Demi Stokes,Georgia Stanway,Manchester City WFC,47.0,1.0,57.0,11.0
+,Georgia Stanway,Demi Stokes,Manchester City WFC,57.0,11.0,45.0,3.0
+,Demi Stokes,Georgia Stanway,Manchester City WFC,45.0,3.0,50.0,12.0
+,Maren Nævdal Mjelde,Millie Bright,Chelsea FCW,120.0,79.0,118.0,40.0
+,Ellie Roebuck,Abbie McManus,Manchester City WFC,6.0,42.0,7.0,63.0
+,Abbie McManus,Ellie Roebuck,Manchester City WFC,16.0,55.0,8.0,40.0
+,Ellie Roebuck,Georgia Stanway,Manchester City WFC,8.0,40.0,34.0,30.0
+,So-Yun Ji,Erin Cuthbert,Chelsea FCW,87.0,51.0,91.0,47.0
+,Erin Cuthbert,Francesca Kirby,Chelsea FCW,95.0,43.0,98.0,40.0
+,Abbie McManus,,Manchester City WFC,23.0,41.0,34.0,38.0
+,So-Yun Ji,Crystal Alyssia Dunn Soubrier,Chelsea FCW,93.0,33.0,101.0,16.0
+,Crystal Alyssia Dunn Soubrier,,Chelsea FCW,117.0,25.0,118.0,40.0
+,Ellie Roebuck,Georgia Stanway,Manchester City WFC,15.0,40.0,30.0,32.0
+,Georgia Stanway,Claire Emslie,Manchester City WFC,48.0,33.0,68.0,23.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,75.0,58.0,85.0,44.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,86.0,43.0,77.0,44.0
+,Maren Nævdal Mjelde,Crystal Alyssia Dunn Soubrier,Chelsea FCW,78.0,42.0,98.0,14.0
+,Crystal Alyssia Dunn Soubrier,Francesca Kirby,Chelsea FCW,96.0,14.0,120.0,24.0
+,Ellie Roebuck,Jill Scott,Manchester City WFC,6.0,43.0,38.0,50.0
+,Keira Walsh,Abbie McManus,Manchester City WFC,29.0,55.0,27.0,55.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,27.0,56.0,39.0,75.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,55.0,76.0,112.0,68.0
+,Magdalena Lilly Eriksson,Rut Hedvig Lindahl,Chelsea FCW,9.0,13.0,2.0,26.0
+,Rut Hedvig Lindahl,,Chelsea FCW,5.0,23.0,37.0,11.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,86.0,69.0,109.0,34.0
+,Millie Bright,,Chelsea FCW,12.0,60.0,96.0,80.0
+,Demi Stokes,Nikita Parris,Manchester City WFC,26.0,1.0,40.0,4.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,81.0,77.0,87.0,74.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,88.0,76.0,84.0,78.0
+,Jennifer Patricia Beattie,Nadia Nadim,Manchester City WFC,24.0,9.0,48.0,4.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,73.0,77.0,78.0,77.0
+,Millie Bright,Erin Cuthbert,Chelsea FCW,74.0,72.0,83.0,64.0
+,Erin Cuthbert,Ramona Bachmann,Chelsea FCW,83.0,61.0,95.0,59.0
+,Ramona Bachmann,Francesca Kirby,Chelsea FCW,95.0,59.0,96.0,59.0
+,Francesca Kirby,Crystal Alyssia Dunn Soubrier,Chelsea FCW,99.0,53.0,104.0,30.0
+,Ellie Roebuck,Nadia Nadim,Manchester City WFC,6.0,43.0,50.0,62.0
+,Magdalena Lilly Eriksson,,Chelsea FCW,71.0,19.0,116.0,27.0
+,Ellie Roebuck,Jill Scott,Manchester City WFC,16.0,58.0,52.0,60.0
+,Maren Nævdal Mjelde,Erin Cuthbert,Chelsea FCW,69.0,21.0,73.0,28.0
+,Erin Cuthbert,So-Yun Ji,Chelsea FCW,74.0,27.0,67.0,35.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,68.0,27.0,84.0,20.0
+,Maren Nævdal Mjelde,Crystal Alyssia Dunn Soubrier,Chelsea FCW,90.0,20.0,104.0,12.0
+,Crystal Alyssia Dunn Soubrier,,Chelsea FCW,112.0,16.0,113.0,48.0
+,Demi Stokes,Georgia Stanway,Manchester City WFC,9.0,34.0,21.0,43.0
+,Georgia Stanway,,Manchester City WFC,21.0,43.0,21.0,46.0
+,Rut Hedvig Lindahl,Francesca Kirby,Chelsea FCW,16.0,54.0,79.0,57.0
+,Jennifer Patricia Beattie,Georgia Stanway,Manchester City WFC,42.0,24.0,52.0,22.0
+,Georgia Stanway,Claire Emslie,Manchester City WFC,52.0,22.0,58.0,2.0
+,Claire Emslie,Nadia Nadim,Manchester City WFC,63.0,2.0,76.0,9.0
+,Nadia Nadim,Claire Emslie,Manchester City WFC,76.0,9.0,71.0,9.0
+,Claire Emslie,Keira Walsh,Manchester City WFC,75.0,24.0,63.0,28.0
+,Keira Walsh,Georgia Stanway,Manchester City WFC,64.0,28.0,72.0,25.0
+,Georgia Stanway,Demi Stokes,Manchester City WFC,70.0,22.0,62.0,6.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,60.0,7.0,39.0,14.0
+,Jennifer Patricia Beattie,Keira Walsh,Manchester City WFC,39.0,15.0,44.0,32.0
+,Keira Walsh,Demi Stokes,Manchester City WFC,48.0,13.0,62.0,3.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,88.0,3.0,94.0,16.0
+,Millie Bright,Erin Cuthbert,Chelsea FCW,24.0,58.0,43.0,59.0
+,Jennifer Patricia Beattie,,Manchester City WFC,62.0,27.0,64.0,31.0
+,Erin Cuthbert,Ramona Bachmann,Chelsea FCW,57.0,50.0,105.0,26.0
+,Ellie Roebuck,Abbie McManus,Manchester City WFC,16.0,54.0,25.0,53.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,27.0,55.0,32.0,72.0
+,Esme Beth Morgan,Nadia Nadim,Manchester City WFC,36.0,76.0,96.0,54.0
+,Anita Amma Ankyewah Asante,Millie Bright,Chelsea FCW,25.0,27.0,20.0,47.0
+,Millie Bright,Hannah Jayne Blundell,Chelsea FCW,20.0,52.0,35.0,56.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,35.0,54.0,35.0,46.0
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,39.0,45.0,76.0,8.0
+,Ramona Bachmann,Crystal Alyssia Dunn Soubrier,Chelsea FCW,97.0,24.0,107.0,23.0
+,Abbie McManus,Jill Scott,Manchester City WFC,9.0,69.0,21.0,65.0
+,Jill Scott,Nikita Parris,Manchester City WFC,21.0,65.0,16.0,63.0
+,Nikita Parris,Abbie McManus,Manchester City WFC,16.0,63.0,12.0,75.0
+,Abbie McManus,Nikita Parris,Manchester City WFC,13.0,73.0,22.0,65.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,25.0,52.0,22.0,20.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,27.0,19.0,34.0,3.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,36.0,3.0,10.0,15.0
+,Jennifer Patricia Beattie,Ellie Roebuck,Manchester City WFC,7.0,19.0,6.0,40.0
+,Ellie Roebuck,Keira Walsh,Manchester City WFC,9.0,44.0,24.0,67.0
+,Keira Walsh,Nadia Nadim,Manchester City WFC,30.0,67.0,85.0,52.0
+,Anita Amma Ankyewah Asante,Maren Nævdal Mjelde,Chelsea FCW,36.0,29.0,37.0,23.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,37.0,27.0,45.0,47.0
+,Rut Hedvig Lindahl,Francesca Kirby,Chelsea FCW,22.0,46.0,67.0,42.0
+,Jennifer Patricia Beattie,Claire Emslie,Manchester City WFC,54.0,39.0,67.0,31.0
+,Claire Emslie,Demi Stokes,Manchester City WFC,67.0,31.0,53.0,24.0
+,Demi Stokes,Georgia Stanway,Manchester City WFC,81.0,12.0,82.0,21.0
+,Georgia Stanway,Keira Walsh,Manchester City WFC,79.0,20.0,75.0,12.0
+,Keira Walsh,Nadia Nadim,Manchester City WFC,75.0,12.0,84.0,17.0
+,Erin Cuthbert,So-Yun Ji,Chelsea FCW,44.0,61.0,39.0,64.0
+,So-Yun Ji,Erin Cuthbert,Chelsea FCW,41.0,66.0,46.0,62.0
+,Erin Cuthbert,,Chelsea FCW,52.0,60.0,53.0,63.0
+,Claire Emslie,Jennifer Patricia Beattie,Manchester City WFC,68.0,18.0,51.0,5.0
+,Jennifer Patricia Beattie,Abbie McManus,Manchester City WFC,42.0,4.0,31.0,24.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,26.0,40.0,28.0,62.0
+,Esme Beth Morgan,Ellie Roebuck,Manchester City WFC,27.0,61.0,4.0,42.0
+,Ellie Roebuck,Abbie McManus,Manchester City WFC,5.0,45.0,10.0,59.0
+,Abbie McManus,Ellie Roebuck,Manchester City WFC,10.0,59.0,6.0,44.0
+,Ellie Roebuck,Jill Scott,Manchester City WFC,5.0,43.0,44.0,56.0
+,Jill Scott,Nadia Nadim,Manchester City WFC,44.0,56.0,53.0,54.0
+,Anita Amma Ankyewah Asante,Magdalena Lilly Eriksson,Chelsea FCW,67.0,14.0,50.0,14.0
+,Magdalena Lilly Eriksson,,Chelsea FCW,44.0,12.0,99.0,11.0
+,Esme Beth Morgan,Ellie Roebuck,Manchester City WFC,22.0,70.0,9.0,46.0
+,Ellie Roebuck,Nadia Nadim,Manchester City WFC,14.0,48.0,56.0,52.0
+,Maren Nævdal Mjelde,Crystal Alyssia Dunn Soubrier,Chelsea FCW,69.0,21.0,76.0,6.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,80.0,14.0,99.0,13.0
+,Claire Emslie,Georgia Stanway,Manchester City WFC,86.0,7.0,75.0,16.0
+,Georgia Stanway,Demi Stokes,Manchester City WFC,75.0,16.0,79.0,4.0
+,Demi Stokes,Nikita Parris,Manchester City WFC,95.0,14.0,110.0,46.0
+,Rut Hedvig Lindahl,Maren Nævdal Mjelde,Chelsea FCW,6.0,34.0,53.0,9.0
+,Jill Scott,Nikita Parris,Manchester City WFC,68.0,72.0,82.0,66.0
+,Nikita Parris,,Manchester City WFC,82.0,57.0,83.0,53.0
+,So-Yun Ji,Crystal Alyssia Dunn Soubrier,Chelsea FCW,36.0,21.0,36.0,23.0
+,Claire Emslie,,Manchester City WFC,80.0,65.0,118.0,38.0
+,Rut Hedvig Lindahl,Millie Bright,Chelsea FCW,14.0,48.0,23.0,60.0
+,Millie Bright,Francesca Kirby,Chelsea FCW,33.0,65.0,106.0,73.0
+,Jennifer Patricia Beattie,Abbie McManus,Manchester City WFC,11.0,10.0,19.0,28.0
+,Abbie McManus,Esme Beth Morgan,Manchester City WFC,21.0,37.0,34.0,68.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,34.0,68.0,43.0,61.0
+,Jill Scott,Claire Emslie,Manchester City WFC,43.0,61.0,45.0,77.0
+,Claire Emslie,Abbie McManus,Manchester City WFC,39.0,73.0,23.0,65.0
+,Abbie McManus,Jill Scott,Manchester City WFC,52.0,64.0,52.0,67.0
+,Maren Nævdal Mjelde,Crystal Alyssia Dunn Soubrier,Chelsea FCW,69.0,14.0,79.0,5.0
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,81.0,5.0,84.0,4.0
+,Ramona Bachmann,Crystal Alyssia Dunn Soubrier,Chelsea FCW,84.0,4.0,100.0,5.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,110.0,15.0,114.0,24.0
+,Esme Beth Morgan,,Manchester City WFC,4.0,61.0,30.0,80.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,95.0,1.0,113.0,10.0
+,Keira Walsh,,Manchester City WFC,13.0,71.0,17.0,70.0
+,Nikita Parris,Jane Ross,Manchester City WFC,30.0,60.0,51.0,16.0
+,Jane Ross,Demi Stokes,Manchester City WFC,46.0,13.0,33.0,15.0
+,Demi Stokes,,Manchester City WFC,35.0,14.0,68.0,18.0
+,Millie Bright,,Chelsea FCW,53.0,63.0,81.0,67.0
+,Demi Stokes,Keira Walsh,Manchester City WFC,45.0,12.0,48.0,19.0
+,Keira Walsh,Demi Stokes,Manchester City WFC,48.0,19.0,42.0,12.0
+,Demi Stokes,Jennifer Patricia Beattie,Manchester City WFC,42.0,12.0,30.0,18.0
+,Jennifer Patricia Beattie,Demi Stokes,Manchester City WFC,30.0,18.0,40.0,7.0
+,Demi Stokes,Jane Ross,Manchester City WFC,53.0,3.0,110.0,42.0
+,Abbie McManus,Jill Scott,Manchester City WFC,32.0,61.0,50.0,71.0
+,Jill Scott,Abbie McManus,Manchester City WFC,35.0,70.0,27.0,67.0
+,Abbie McManus,Ellie Roebuck,Manchester City WFC,24.0,63.0,9.0,42.0
+,Ellie Roebuck,,Manchester City WFC,10.0,45.0,44.0,52.0
+,Erin Cuthbert,Maren Nævdal Mjelde,Chelsea FCW,77.0,31.0,80.0,44.0
+,Maren Nævdal Mjelde,Hannah Jayne Blundell,Chelsea FCW,85.0,47.0,90.0,63.0
+,Hannah Jayne Blundell,Erin Cuthbert,Chelsea FCW,89.0,58.0,87.0,51.0
+,Erin Cuthbert,Hannah Jayne Blundell,Chelsea FCW,87.0,49.0,95.0,80.0
+,Demi Stokes,Jane Ross,Manchester City WFC,38.0,1.0,54.0,4.0
+,Demi Stokes,Jane Ross,Manchester City WFC,48.0,1.0,70.0,4.0
+,Hannah Jayne Blundell,Millie Bright,Chelsea FCW,54.0,79.0,38.0,78.0
+,Millie Bright,Rut Hedvig Lindahl,Chelsea FCW,38.0,74.0,9.0,58.0
+,Rut Hedvig Lindahl,Ramona Bachmann,Chelsea FCW,10.0,58.0,55.0,69.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,45.0,80.0,58.0,78.0
+,So-Yun Ji,Hannah Jayne Blundell,Chelsea FCW,59.0,78.0,45.0,80.0
+,Hannah Jayne Blundell,Erin Cuthbert,Chelsea FCW,45.0,79.0,75.0,71.0
+,Jennifer Patricia Beattie,,Manchester City WFC,46.0,10.0,72.0,15.0
+,Millie Bright,Erin Cuthbert,Chelsea FCW,49.0,66.0,70.0,69.0
+,Jennifer Patricia Beattie,Georgia Stanway,Manchester City WFC,51.0,12.0,55.0,15.0
+,Georgia Stanway,Jane Ross,Manchester City WFC,56.0,16.0,83.0,15.0
+,Maria Thorisdottir,So-Yun Ji,Chelsea FCW,43.0,60.0,51.0,77.0
+,So-Yun Ji,Ramona Bachmann,Chelsea FCW,66.0,70.0,76.0,78.0
+,Ramona Bachmann,Erin Cuthbert,Chelsea FCW,95.0,67.0,100.0,54.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,84.0,13.0,85.0,11.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,81.0,80.0,92.0,68.0
+,Jill Scott,,Manchester City WFC,92.0,68.0,95.0,67.0
+,Magdalena Lilly Eriksson,Erin Cuthbert,Chelsea FCW,26.0,12.0,67.0,12.0
+,Abbie McManus,Keira Walsh,Manchester City WFC,54.0,69.0,65.0,53.0
+,Keira Walsh,Demi Stokes,Manchester City WFC,65.0,53.0,53.0,37.0
+,Demi Stokes,Keira Walsh,Manchester City WFC,53.0,40.0,59.0,43.0
+,Keira Walsh,Claire Emslie,Manchester City WFC,63.0,44.0,88.0,4.0
+,Claire Emslie,Georgia Stanway,Manchester City WFC,90.0,6.0,85.0,9.0
+,Georgia Stanway,Jill Scott,Manchester City WFC,89.0,24.0,92.0,51.0
+,Jill Scott,Jane Ross,Manchester City WFC,92.0,51.0,101.0,42.0
+,Jane Ross,Nikita Parris,Manchester City WFC,101.0,42.0,104.0,57.0
+,Nikita Parris,Jill Scott,Manchester City WFC,115.0,65.0,111.0,46.0
+,Jill Scott,Georgia Stanway,Manchester City WFC,109.0,48.0,97.0,46.0
+,Erin Cuthbert,Crystal Alyssia Dunn Soubrier,Chelsea FCW,80.0,22.0,109.0,2.0
+,Crystal Alyssia Dunn Soubrier,Ramona Bachmann,Chelsea FCW,116.0,10.0,105.0,10.0
+,Ramona Bachmann,Hannah Jayne Blundell,Chelsea FCW,96.0,24.0,108.0,50.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,13.0,31.0,32.0,28.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,89.0,53.0,95.0,51.0
+,Georgia Stanway,Jane Ross,Manchester City WFC,26.0,30.0,65.0,34.0
+,Anita Amma Ankyewah Asante,Maria Thorisdottir,Chelsea FCW,56.0,47.0,67.0,51.0
+,Maria Thorisdottir,Hannah Jayne Blundell,Chelsea FCW,69.0,50.0,75.0,59.0
+,Claire Emslie,Georgia Stanway,Manchester City WFC,50.0,27.0,45.0,31.0
+,Georgia Stanway,Keira Walsh,Manchester City WFC,45.0,31.0,38.0,28.0
+,Keira Walsh,Abbie McManus,Manchester City WFC,37.0,31.0,34.0,43.0
+,Abbie McManus,Jennifer Patricia Beattie,Manchester City WFC,34.0,43.0,38.0,22.0
+,Jennifer Patricia Beattie,Claire Emslie,Manchester City WFC,47.0,9.0,84.0,12.0
+,Millie Bright,Maren Nævdal Mjelde,Chelsea FCW,37.0,69.0,45.0,67.0
+,Maren Nævdal Mjelde,Millie Bright,Chelsea FCW,41.0,66.0,36.0,71.0
+,Millie Bright,Erin Cuthbert,Chelsea FCW,37.0,74.0,87.0,69.0
+,Hannah Jayne Blundell,So-Yun Ji,Chelsea FCW,110.0,80.0,103.0,75.0
+,So-Yun Ji,Millie Bright,Chelsea FCW,100.0,74.0,87.0,79.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,87.0,78.0,90.0,69.0
+,So-Yun Ji,Erin Cuthbert,Chelsea FCW,93.0,71.0,95.0,68.0
+,So-Yun Ji,Maren Nævdal Mjelde,Chelsea FCW,92.0,66.0,85.0,59.0
+,Maren Nævdal Mjelde,Hannah Jayne Blundell,Chelsea FCW,88.0,68.0,96.0,71.0
+,Hannah Jayne Blundell,Erin Cuthbert,Chelsea FCW,99.0,70.0,98.0,68.0
+,Erin Cuthbert,Hannah Jayne Blundell,Chelsea FCW,96.0,67.0,107.0,67.0
+,Hannah Jayne Blundell,Crystal Alyssia Dunn Soubrier,Chelsea FCW,115.0,57.0,116.0,39.0
+,Crystal Alyssia Dunn Soubrier,Erin Cuthbert,Chelsea FCW,114.0,39.0,109.0,50.0
+,Claire Emslie,Jane Ross,Manchester City WFC,110.0,19.0,110.0,20.0
+,Ramona Bachmann,Erin Cuthbert,Chelsea FCW,69.0,15.0,91.0,41.0
+,Jennifer Patricia Beattie,Abbie McManus,Manchester City WFC,30.0,40.0,33.0,50.0
+,Abbie McManus,Nikita Parris,Manchester City WFC,36.0,48.0,48.0,60.0
+,Nikita Parris,Esme Beth Morgan,Manchester City WFC,48.0,60.0,35.0,71.0
+,Esme Beth Morgan,Jane Ross,Manchester City WFC,35.0,71.0,99.0,59.0
+,Jane Ross,Claire Emslie,Manchester City WFC,104.0,49.0,98.0,32.0
+,Hannah Jayne Blundell,Millie Bright,Chelsea FCW,23.0,49.0,14.0,46.0
+,Millie Bright,So-Yun Ji,Chelsea FCW,13.0,45.0,46.0,55.0
+,Demi Stokes,Keira Walsh,Manchester City WFC,49.0,12.0,48.0,27.0
+,Keira Walsh,Esme Beth Morgan,Manchester City WFC,48.0,28.0,48.0,56.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,56.0,64.0,85.0,73.0
+,Nikita Parris,Jane Ross,Manchester City WFC,87.0,73.0,110.0,56.0
+,Jane Ross,Nikita Parris,Manchester City WFC,110.0,54.0,102.0,53.0
+,Nikita Parris,Georgia Stanway,Manchester City WFC,99.0,49.0,97.0,40.0
+,Jennifer Patricia Beattie,Georgia Stanway,Manchester City WFC,38.0,51.0,53.0,50.0
+,Georgia Stanway,Nikita Parris,Manchester City WFC,53.0,50.0,66.0,64.0
+,Crystal Alyssia Dunn Soubrier,Maria Thorisdottir,Chelsea FCW,55.0,17.0,58.0,27.0
+,Jill Scott,Jane Ross,Manchester City WFC,66.0,52.0,70.0,52.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,51.0,29.0,78.0,25.0
+,Esme Beth Morgan,,Manchester City WFC,43.0,56.0,86.0,48.0
+,Anita Amma Ankyewah Asante,Ramona Bachmann,Chelsea FCW,39.0,34.0,84.0,13.0
+,Esme Beth Morgan,Jill Scott,Manchester City WFC,51.0,80.0,64.0,77.0
+,Jill Scott,Nikita Parris,Manchester City WFC,64.0,77.0,74.0,77.0
+,Nikita Parris,Jane Ross,Manchester City WFC,74.0,77.0,84.0,72.0
+,Millie Bright,,Chelsea FCW,37.0,9.0,71.0,15.0
+,Esme Beth Morgan,,Manchester City WFC,50.0,66.0,70.0,62.0
+,Maren Nævdal Mjelde,So-Yun Ji,Chelsea FCW,51.0,19.0,65.0,19.0
+,Keira Walsh,Jane Ross,Manchester City WFC,57.0,73.0,94.0,61.0
+,Claire Emslie,Jennifer Patricia Beattie,Manchester City WFC,120.0,80.0,110.0,36.0
+,Rut Hedvig Lindahl,Millie Bright,Chelsea FCW,6.0,34.0,50.0,1.0
+,Esme Beth Morgan,Nikita Parris,Manchester City WFC,71.0,80.0,91.0,73.0
+,Nikita Parris,Jane Ross,Manchester City WFC,92.0,69.0,93.0,62.0
+,Millie Bright,Erin Cuthbert,Chelsea FCW,28.0,19.0,42.0,16.0
+,So-Yun Ji,,Chelsea FCW,44.0,18.0,50.0,25.0
+,Keira Walsh,Demi Stokes,Manchester City WFC,66.0,51.0,65.0,28.0
+,Demi Stokes,Jane Ross,Manchester City WFC,90.0,12.0,106.0,41.0
+,Jennifer Patricia Beattie,Georgia Stanway,Manchester City WFC,76.0,25.0,83.0,28.0
+,Georgia Stanway,Demi Stokes,Manchester City WFC,83.0,28.0,78.0,13.0
+,Demi Stokes,Claire Emslie,Manchester City WFC,86.0,10.0,95.0,3.0
+,Claire Emslie,Jane Ross,Manchester City WFC,91.0,4.0,106.0,34.0
+,Claire Emslie,,Manchester City WFC,85.0,4.0,86.0,26.0
+,So-Yun Ji,Eniola Aluko,Chelsea FCW,38.0,49.0,108.0,68.0
+,Hannah Jayne Blundell,Eniola Aluko,Chelsea FCW,93.0,80.0,109.0,74.0
+,Eniola Aluko,,Chelsea FCW,120.0,62.0,118.0,59.0
+,Maren Nævdal Mjelde,,Chelsea FCW,120.0,79.0,120.0,41.0
+,Ellie Roebuck,,Manchester City WFC,6.0,45.0,52.0,52.0
+,Maren Nævdal Mjelde,,Chelsea FCW,69.0,29.0,105.0,24.0

@@ -1,0 +1,16 @@
+import pickle
+from sklearn.ensemble import RandomForestClassifier
+
+# Model eğitimi (örnek)
+model = RandomForestClassifier()
+X_train = [[0.5, 0.6], [0.1, 0.2], [0.7, 0.8]]
+y_train = [1, 0, 1]
+model.fit(X_train, y_train)
+
+# Modeli kaydet
+with open("output/models/xg_model.pkl", "wb") as f:
+    pickle.dump(model, f)
+
+# Modeli yükle
+with open("output/models/xg_model.pkl", "rb") as f:
+    loaded_model = pickle.load(f)

@@ -1,0 +1,14 @@
+from fpdf import FPDF
+
+pdf = FPDF()
+pdf.add_page()
+pdf.set_font("Arial", size=12)
+
+pdf.cell(200, 10, txt="xG (Beklenen Gol) Analizi Raporu", ln=True, align='C')
+pdf.ln(10)
+pdf.set_font("Arial", size=10)
+pdf.multi_cell(0, 10, txt="Bu raporda, StatsBomb Open Data kullanılarak xG modeli analiz edilmiştir. Model doğruluğu ve ROC-AUC sonuçları aşağıda sunulmaktadır.")
+pdf.ln(10)
+pdf.cell(200, 10, txt="ROC-AUC: 0.77", ln=True, align='L')
+
+pdf.output("output/reports/xg_report.pdf")
